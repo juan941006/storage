@@ -51,6 +51,7 @@
   .navbar-right ul li a:hover {
     border: 1px solid var(--hospital-green);
     color: var(--hospital-green);
+    
   }
   .navbar-email {
     cursor: pointer;
